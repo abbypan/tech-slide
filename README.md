@@ -1,3 +1,3 @@
-# isaic2020_v2x_dda
+# ISAIC2020: Privacy Enhancement for Vehicle’s Long Term Credential in V2X using Direct Anonymous Attestation
 
-http://www.confisaic.com/#/
+[slide](<main.pdf>), [source](<main.tex>)
