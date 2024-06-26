@@ -1,0 +1,28 @@
+@startuml
+
+group Resolver Discovery
+
+Terminal -> Internal_CPE : Join Local Network, request DNS Information
+
+alt DNR
+Internal_CPE -> Terminal :  DHCP/RA
+else PAKE
+Internal_CPE -> Terminal : use PAKE scheme to authenticatethe encrypted DNS server, setup secure communication
+else DDR
+Internal_CPE -> Terminal :  SVCB record from dns://resolver.arpa
+end
+
+end
+
+group Resolver Validation
+    alt DNSCurve
+    Internal_CPE -> Terminal : raw public key
+    Terminal -> Internal_CPE:  Trust On First Use (TOFU)
+    Terminal -> Internal_CPE:  [Optional] CryptographicallyGenerated Addresses (CGA)
+    else DoT/DoH
+    Internal_CPE -> Terminal : self-signed certificate
+    Terminal -> Internal_CPE:  subject alt name contains Internal CPE DNS Server Address
+    end
+end
+
+@enduml

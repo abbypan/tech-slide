@@ -1,0 +1,31 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {1}{Offline Peer To Peer Connection}{3}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {1}{1}{Bluetooth vs WiFi Direct}{3}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {1}{2}{Bluetooth}{4}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {1}{3}{Wifi Direct}{6}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {1}{4}{Application Level Authentication}{8}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {2}{Communications Between Multiple IoT products}{9}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{1}{Binding}{9}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{2}{Router Centered ECQV Implicit Certificate System}{10}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{3}{ECQV Implicit Certificate Provision}{11}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {3}{Local Visit To Home Gateway Service}{12}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{1}{Router Web Admin Page}{12}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{2}{Router DNS Service}{13}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{3}{Use TLS-PSK}{14}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {4}{Conclusion}{15}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {4}{1}{Conclusion}{15}{0}{4}

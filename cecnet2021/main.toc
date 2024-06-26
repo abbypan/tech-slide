@@ -1,0 +1,15 @@
+\beamer@sectionintoc {1}{IoT Secure Communication}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Main Process}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Initial: Pairing}{4}{0}{1}
+\beamer@subsectionintoc {1}{3}{Initial: Provision/Exchange Long-Term credential}{5}{0}{1}
+\beamer@subsectionintoc {1}{4}{Communication: Mutual-Authentication based on Long-Term credential}{6}{0}{1}
+\beamer@subsectionintoc {1}{5}{Communication: Build secure communication channel}{7}{0}{1}
+\beamer@sectionintoc {2}{IoT Secure Scenario}{8}{0}{2}
+\beamer@subsectionintoc {2}{1}{Secure IoT Communication}{8}{0}{2}
+\beamer@subsectionintoc {2}{2}{Example: Matter}{9}{0}{2}
+\beamer@subsectionintoc {2}{3}{Example: CCC Digital Key}{10}{0}{2}
+\beamer@subsectionintoc {2}{4}{Noise}{11}{0}{2}
+\beamer@subsectionintoc {2}{5}{Our Proposal}{12}{0}{2}
+\beamer@sectionintoc {3}{Conclusion}{13}{0}{3}
+\beamer@subsectionintoc {3}{1}{Conclusion}{13}{0}{3}
+\beamer@subsectionintoc {3}{2}{Resources}{14}{0}{3}

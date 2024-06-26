@@ -1,0 +1,13 @@
+@startuml
+
+group Initial
+Initiator -> Responder : Pairing
+Initiator <-> Responder : Provision/Exchange Long-Term credential
+end
+
+group Communication
+Initiator <-> Responder : Mutual-Authentication based on Long-Term credential
+Initiator <-> Responder : Build secure communication channel
+end
+
+@enduml
