@@ -1,5 +1,7 @@
 # tech slide 
 
+- CSR2024: Building a Secure Cross-Device Communication Channel for Smart Devices based on App Accounts [slide](<csr2024/slide.pdf>)
+
 - SmartNets2024: ASDWL: Mitigating DNS Random Subdomain Attacks for Second Level Domain [slide](<smartnets2024/slide.pdf>)
 
 - CRIS2023: Enhance Calling Definition Security for Android Custom Permission [slide](<cris2023/slide.pdf>)
