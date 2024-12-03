@@ -1,10 +1,12 @@
 # tech slide 
 
+- SIN2024: A Lightweight Hybrid Signcryption Scheme for Smart Devices [slide](<sin2024/slide.pdf>)
+
 - CSR2024: Building a Secure Cross-Device Communication Channel for Smart Devices based on App Accounts [slide](<csr2024/slide.pdf>)
 
 - SmartNets2024: ASDWL: Mitigating DNS Random Subdomain Attacks for Second Level Domain [slide](<smartnets2024/slide.pdf>)
 
-- CRIS2023: Enhance Calling Definition Security for Android Custom Permission [slide](<cris2023/slide.pdf>)
+- CRIS2023: Enhance Calling Definition Security for Android Custom Permission [Paper](https://aircconline.com/csit/abstract/v13n8/csit130808.html), [Slide](<cris_slide_Enhance Calling Definition Security for Android Custom Permission.pdf>), [Video](https://www.youtube.com/watch?v=jmK8DdZ72Ow)
 
 - Computing2022: Measuring the Resolution Resiliency of Domain Name [slide](<computing2022/slide.pdf>)
 
