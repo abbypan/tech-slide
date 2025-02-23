@@ -1,5 +1,7 @@
 # tech slide 
 
+- ICISSP2025: Using Compact DNSSEC and Self-signed Certificate to Improve Security and Privacy for Second-Level Domain Resolution [slide](<icissp2025/slide.pdf>)
+
 - SIN2024: A Lightweight Hybrid Signcryption Scheme for Smart Devices [slide](<sin2024/slide.pdf>)
 
 - CSR2024: Building a Secure Cross-Device Communication Channel for Smart Devices based on App Accounts [slide](<csr2024/slide.pdf>)
